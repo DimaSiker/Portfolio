@@ -5,3 +5,7 @@ header:hover{
     background-color: red;
     transition: background-color 3s linear;
 }
+.Ava:hover{
+ background-color: blue;  
+ transition: background-color 3s linear; 
+}
