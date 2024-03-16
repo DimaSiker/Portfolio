@@ -6,6 +6,34 @@ header:hover{
     transition: background-color 3s linear;
 }
 .Ava:hover{
- background-color: blue;  
+ background-color: red;  
  transition: background-color 3s linear; 
+}
+.Tekst{
+    background-color:orange;
+    color: blue;
+}
+.Tekst3:hover{
+    background-color:red;
+    transition: background-color 3s linear;
+}
+.Tekst4:hover{
+    background-color: red ;
+    transition: background-color 3s linear;
+}
+.Tekst1{
+    background-color: orange;
+    color: blue;
+}
+.Tekst2{
+    background-color: orange;
+    color: blue;
+}
+.GdeI{
+    color: purple;
+    background-color: orange;
+}
+.mee{
+    color: blue;
+    background-color: orange;
 }
