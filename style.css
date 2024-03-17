@@ -1,5 +1,6 @@
 .Img{
     width: 100px;
+    position:absolute;
 }
 header:hover{
     background-color: red;
@@ -23,11 +24,8 @@ header:hover{
 }
 .Tekst1{
     background-color: orange;
-    color: blue;
-}
-.Tekst2{
-    background-color: orange;
-    color: blue;
+    color:blue;
+ text-align: left;
 }
 .GdeI{
     color: purple;
@@ -36,4 +34,12 @@ header:hover{
 .mee{
     color: blue;
     background-color: orange;
+    text-align:center;
+}
+.Ava{
+    text-align:center;
+}
+.AClass{
+    text-decoration: none;
+    text-align: center;
 }
